@@ -13,7 +13,7 @@
 
 ## Схема
 
-![Scheme](figs/instadb.png)
+![Scheme](figs/schema.png)
 
 ## Описание коллекций
 
